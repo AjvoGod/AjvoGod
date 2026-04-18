@@ -1,41 +1,48 @@
 # Ajvo
 
-Software engineer at TEDOM Energie building internal data platforms, ETL systems, backend services, and AI-assisted analytics tooling.
+Software engineer building backend-heavy data products, internal platforms, and AI-assisted analytics tooling.
 
-Most of my best work is private because it runs inside production analytics systems. This profile is meant to make that visible: I design software that moves data reliably, exposes metadata and lineage clearly, and gives operators better tools to debug, search, and automate complex workflows.
+I work across the full path from ingestion to UI: ETL pipelines, APIs, metadata catalogs, lineage, operator tools, and developer-facing AI integrations. Most of my strongest work lives in private GitHub repos because it runs inside production analytics environments.
 
-## What I Build At TEDOM Energie
+I am strongest when the problem is technically messy, operationally important, and needs to become reliable software.
 
-- Unified data platforms that connect CRM, ERP, market data, Excel, Power BI, SQL Server, and internal AI workflows
-- Code-first ETL systems in `.NET 8/9` with scheduling, observability, retry logic, and failure handling
-- Internal metadata catalogs with lineage, impact analysis, semantic search, and grounded AI assistance
-- MCP and AI integrations that turn analytics infrastructure into something operators can query and control in natural language
+## What I Bring
 
-## Selected Private Work
+- I turn manual or fragile analytics workflows into maintainable internal products
+- I replace legacy SSIS-style and ad hoc processes with code-first `.NET` services
+- I build systems that connect `SQL Server`, `PostgreSQL`, `Power BI`, external APIs, and frontend operator tooling
+- I use AI pragmatically: for debugging, search, catalog exploration, and control surfaces, not as decoration
 
-| Project | What I built | Why it matters |
+## Flagship Project
+
+### TEDOM Data Platform `private`
+
+At TEDOM Energie I am building a unified on-premise platform that combines:
+
+- `.NET 9` ETL worker with **7 adapters** for Raynet, Oracle, EEX, SendGrid, Excel, REST APIs, and AI tasks
+- `.NET 8` catalog/API layer with **50+ endpoints**
+- `Vue 3` application with **14 views** for operations, lineage, catalog search, and monitoring
+- `Semantic Kernel` AI agent with **36 tools** and MCP integration
+- metadata graph with **2,600+ objects** and **2,500+ relations**
+
+The value is simple: one system for running pipelines, understanding data dependencies, querying operational state, and debugging failures.
+
+## Selected GitHub Work
+
+| Project | Scope | What it shows |
 |---|---|---|
-| **TEDOM Data Platform** | Unified platform with a `.NET 9` ETL worker, `.NET 8` catalog API, `Vue 3` UI, RAG search, AI assistant, and MCP server | Connects **7 source systems** on a single on-premise stack and gives the team one place to run, inspect, and understand data operations |
-| **Tedom IT Hub Catalog** | Internal metadata catalog for SQL Server, Power BI, Make.com, and WordPress with lineage and impact analysis | Makes it faster to answer what an object does, where data comes from, and what a change can break |
-| **ETL High-Performance Refactor** | Code-first redesign of a legacy ETL flow with better database access patterns and maintainability | Delivered a measured **2.2x synchronization speedup** across **130+ tables** |
-| **Raynet API to DWH** | Reliable CRM-to-warehouse synchronization with incremental loads, concurrency handling, and alerting | Keeps commercial and reporting data fresh without wasting API budget |
-| **Excel Automation** | Import pipeline for large Excel workbooks with schema detection, validation, bulk loading, and technical error reporting | Replaced manual spreadsheet work with repeatable ingestion flows |
-| **EEX Settlements** | Pipeline for financial settlement and market data ingestion | Keeps analytics teams supplied with up-to-date energy market data |
-
-## Open Source Work
-
-The public repos here reflect the same direction as my private work: developer tooling for analytics and AI-assisted workflows.
-
-| Project | What it does | Stack |
-|---|---|---|
-| [`powerbi-mcp`](https://github.com/AjvoGod/powerbi-mcp) | MCP server for PBIX analysis, semantic model extraction, report export, and Power BI cloud operations | TypeScript, Node.js, Power BI, MCP |
-| [`mcp-sql-agent`](https://github.com/AjvoGod/mcp-sql-agent) | Read-only SQL MCP server for PostgreSQL and SQL Server with introspection and query safety | TypeScript, SQL, PostgreSQL, SQL Server, MCP |
+| `TEDOM Data Platform` `private` | Unified ETL + catalog + AI operations platform | End-to-end ownership from ingestion and orchestration to API, UI, AI agent, and MCP surface |
+| `Tedom-Hub-Catalog` `private` | Internal metadata catalog and lineage product | Search, impact analysis, Power BI and SQL metadata modeling, grounded AI assistance |
+| `ETLToDWH` `private` | TEDOM Energie ETL modernization | Raynet, Oracle ZIS, and Excel ingestion; migration away from SSIS; measured **2.2x speedup** across **130+ tables** |
+| `SendGrid` `private` | SendGrid ELT service for analytics | Bulk export orchestration, Microsoft Graph mailbox boundary, transactional SQL imports, dedupe-safe event loading |
+| [`powerbi-mcp`](https://github.com/AjvoGod/powerbi-mcp) | Public Power BI MCP server | Developer tooling, PBIX analysis, semantic model extraction, report export, cloud operations |
+| [`mcp-sql-agent`](https://github.com/AjvoGod/mcp-sql-agent) | Public read-only SQL MCP server | Safe SQL access for AI assistants across PostgreSQL and SQL Server |
 
 ## Current Focus
 
-- Building safer AI interfaces for data and BI systems
-- Designing internal tools that make metadata, lineage, and operational state easy to inspect
-- Turning repeated analytics work into reusable platform capabilities instead of one-off scripts
+- Internal platform engineering for analytics and BI teams
+- Metadata, lineage, and operator tooling that make complex systems easier to inspect
+- AI-assisted workflows around SQL, Power BI, and production data operations
 
 ## Stack
 
