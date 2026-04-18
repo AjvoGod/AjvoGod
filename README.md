@@ -1,44 +1,45 @@
 # Ajvo
 
-Software engineer building data platforms, ETL systems, backend services, and AI-assisted analytics tooling.
+Software engineer at TEDOM Energie building internal data platforms, ETL systems, backend services, and AI-assisted analytics tooling.
 
-I focus on software that makes analytics teams faster and operational data easier to trust. Most of my production work is private, but the public work here shows the pattern clearly: reliable backend systems, practical developer tooling, and MCP integrations around SQL and Power BI.
+Most of my best work is private because it runs inside production analytics systems. This profile is meant to make that visible: I design software that moves data reliably, exposes metadata and lineage clearly, and gives operators better tools to debug, search, and automate complex workflows.
 
-## What I Work On
+## What I Build At TEDOM Energie
 
-- Code-first ETL and warehouse pipelines in `.NET 8/9`
-- Metadata catalogs, lineage tooling, and impact analysis for analytics teams
-- MCP servers for Power BI and SQL workflows
-- Backend services that turn messy operational data into usable reporting systems
+- Unified data platforms that connect CRM, ERP, market data, Excel, Power BI, SQL Server, and internal AI workflows
+- Code-first ETL systems in `.NET 8/9` with scheduling, observability, retry logic, and failure handling
+- Internal metadata catalogs with lineage, impact analysis, semantic search, and grounded AI assistance
+- MCP and AI integrations that turn analytics infrastructure into something operators can query and control in natural language
 
-## Highlights
+## Selected Private Work
 
-- Built [`powerbi-mcp`](https://github.com/AjvoGod/powerbi-mcp), a public MCP server with **45 tools** for PBIX analysis, semantic model extraction, report export, and Power BI cloud operations
-- Built [`mcp-sql-agent`](https://github.com/AjvoGod/mcp-sql-agent), a read-only SQL MCP server for PostgreSQL and SQL Server with schema introspection and safety guards for AI assistants
-- Shipped private ETL and data-platform work including a measured **2.2x synchronization speedup** across **130+ tables**
+| Project | What I built | Why it matters |
+|---|---|---|
+| **TEDOM Data Platform** | Unified platform with a `.NET 9` ETL worker, `.NET 8` catalog API, `Vue 3` UI, RAG search, AI assistant, and MCP server | Connects **7 source systems** on a single on-premise stack and gives the team one place to run, inspect, and understand data operations |
+| **Tedom IT Hub Catalog** | Internal metadata catalog for SQL Server, Power BI, Make.com, and WordPress with lineage and impact analysis | Makes it faster to answer what an object does, where data comes from, and what a change can break |
+| **ETL High-Performance Refactor** | Code-first redesign of a legacy ETL flow with better database access patterns and maintainability | Delivered a measured **2.2x synchronization speedup** across **130+ tables** |
+| **Raynet API to DWH** | Reliable CRM-to-warehouse synchronization with incremental loads, concurrency handling, and alerting | Keeps commercial and reporting data fresh without wasting API budget |
+| **Excel Automation** | Import pipeline for large Excel workbooks with schema detection, validation, bulk loading, and technical error reporting | Replaced manual spreadsheet work with repeatable ingestion flows |
+| **EEX Settlements** | Pipeline for financial settlement and market data ingestion | Keeps analytics teams supplied with up-to-date energy market data |
 
-## Selected Open Source
+## Open Source Work
+
+The public repos here reflect the same direction as my private work: developer tooling for analytics and AI-assisted workflows.
 
 | Project | What it does | Stack |
 |---|---|---|
 | [`powerbi-mcp`](https://github.com/AjvoGod/powerbi-mcp) | MCP server for PBIX analysis, semantic model extraction, report export, and Power BI cloud operations | TypeScript, Node.js, Power BI, MCP |
 | [`mcp-sql-agent`](https://github.com/AjvoGod/mcp-sql-agent) | Read-only SQL MCP server for PostgreSQL and SQL Server with introspection and query safety | TypeScript, SQL, PostgreSQL, SQL Server, MCP |
 
-## Private Production Work
-
-- Data platform modernization: ETL worker, catalog API, and UI for metadata, lineage, and AI-assisted analytics workflows
-- High-throughput ETL refactors: performance tuning, auditing, change tracking, and maintainable code-first pipelines
-- Excel and CRM ingestion automation: schema detection, validation, bulk loading, and operational alerting
-
 ## Current Focus
 
-- Building better interfaces between analytics systems and AI tools
-- Designing backend systems that are observable, safe, and easy to extend
-- Turning BI and reporting workflows into reusable developer tooling
+- Building safer AI interfaces for data and BI systems
+- Designing internal tools that make metadata, lineage, and operational state easy to inspect
+- Turning repeated analytics work into reusable platform capabilities instead of one-off scripts
 
 ## Stack
 
-`C#` `TypeScript` `.NET 8/9` `Node.js` `SQL Server` `PostgreSQL` `Power BI` `Vue 3` `React` `Docker` `MCP`
+`C#` `TypeScript` `.NET 8/9` `SQL Server` `PostgreSQL` `Vue 3` `React` `Power BI` `Docker` `Semantic Kernel` `RAG` `MCP`
 
 ## Connect
 
