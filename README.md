@@ -1,7 +1,5 @@
 <div align="center">
 
-<h3><code></code></h3>
-
 <table>
 <tr>
 <td width="42%" valign="top"><picture>
