@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>ajvogod@github ~ $ whoami</code></h3>
+<h3><code></code></h3>
 
 <table>
 <tr>
