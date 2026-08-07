@@ -20,8 +20,6 @@
 <a href="https://www.linkedin.com/in/ivo-schwarz-8577832a2/">LinkedIn</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/AjvoGod">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://debtora.cz/">Debtora</a>
 </p>
 
 </div>
