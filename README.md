@@ -8,23 +8,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light" />
   <img src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="ajvogod portrait" />
 </picture></td>
-<td width="58%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark" width="100%" alt="ajvogod wordmark" />
-</picture></td>
+<td width="58%" valign="top"><img src="./terminal.svg" width="100%" alt="Ivo Schwarz terminal" /></td>
 </tr>
 </table>
 
 <p><b>Software, Data &amp; AI Consultant</b></p>
 
 <p>
-Building <b>AI-enabled applications, enterprise data platforms and production-ready software.</b>
-</p>
-
-<p>
+<a href="mailto:ivoschwarz@seznam.cz">Email</a>
+&nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/ivo-schwarz-8577832a2/">LinkedIn</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/AjvoGod">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://debtora.cz/">Debtora</a>
 </p>
 
 </div>
@@ -34,8 +31,8 @@ Building <b>AI-enabled applications, enterprise data platforms and production-re
 <h3><code>ajvogod@github ~ $ ./contributions.sh</code></h3>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=light&v=202608071516" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark&v=202608071516" width="100%" alt="ajvogod heatmap" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=light&v=202608071535" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark&v=202608071535" width="100%" alt="ajvogod heatmap" />
 </picture>
 
 </div>
