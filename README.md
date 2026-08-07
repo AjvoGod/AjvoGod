@@ -1,22 +1,22 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="42%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="AjvoGod portrait" />
-</picture>
-</td>
+<table> <tr>
+
+<td width="42%" valign="top"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="AjvoGod portrait" /> </picture> </td>
 
 <td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark" width="100%" alt="Ivo Schwarz" />
-</picture>
+
+<picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark" width="100%" alt="Ivo Schwarz" /> </picture>
+
+<br>
+
+<h3><code>ajvogod@github ~ $ ./contributions.sh</code></h3>
+
+<picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="AjvoGod contribution heatmap" /> </picture>
+
 </td>
-</tr>
-</table>
+
+</tr> </table>
 
 ### Software, Data & AI Consultant
 
