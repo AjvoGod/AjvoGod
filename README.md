@@ -1,8 +1,88 @@
+<div align="center">
+
+<table>
+<tr>
+<td width="42%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="AjvoGod portrait" />
+</picture>
+</td>
+
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark" width="100%" alt="Ivo Schwarz" />
+</picture>
+</td>
+</tr>
+</table>
+
+### Software, Data & AI Consultant
+
+Building **AI-enabled applications, enterprise data platforms and production-ready software.**
+
+[LinkedIn](https://www.linkedin.com/in/ivo-schwarz-8577832a2/) · [GitHub](https://github.com/AjvoGod) · [Debtora](https://debtora.cz/)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```yaml
+name: Ivo Schwarz
+role: Software, Data & AI Consultant
+
+focus:
+  - AI & agentic systems
+  - software engineering
+  - data platforms
+  - enterprise applications
+  - automation & integrations
+```
+
+I design and build software at the intersection of **AI, data engineering and application development**.
+
+My work ranges from enterprise metadata and data platforms to AI agents, RAG systems, MCP integrations, automation and production web applications.
+
+---
+
+## `$ cat ./stack`
+
+### Languages
+
+`Python` · `TypeScript` · `C#` · `SQL / T-SQL`
+
+### AI & Agents
+
+`MCP` · `RAG` · `Agentic Systems` · `LLM Integration` · `Vector Search` · `Structured Outputs`
+
+### Backend
+
+`.NET` · `ASP.NET Core` · `FastAPI` · `Node.js`
+
+### Frontend
+
+`React` · `Next.js` · `Vue.js` · `Tailwind CSS`
+
+### Data
+
+`SQL Server` · `PostgreSQL` · `Power BI` · `Microsoft Fabric`
+
+### Platform & Engineering
+
+`Docker` · `GitHub Actions` · `Kubernetes` · `Playwright` · `Automated Testing`
+
+---
+
 ## `$ ls ./selected-projects`
 
-### 🔒 Enterprise Data & AI Control Center
+### 🔒 universal-platform
 
-Enterprise platform for understanding, operating and governing a complex data warehouse environment.
+**Enterprise Data & AI Control Center**
+
+Enterprise platform for understanding, operating and governing complex data environments.
 
 Built around a metadata-first architecture combining **data cataloging, lineage, observability, AI-assisted discovery and operational control**.
 
@@ -24,21 +104,16 @@ Power BI · MCP · Agentic Graph RAG · OpenRouter · Docker
 * RBAC, auditing and governance
 * operational incident management
 
-`private · enterprise`
+`private · enterprise platform`
 
 ---
 
-### Metadata & Lineage Intelligence Platform
+### 🔒 **Metadata & Lineage Intelligence Platform**
 
-Internal metadata intelligence platform connecting objects across multiple enterprise systems.
 
-Designed to answer questions such as:
+Metadata intelligence platform for discovering dependencies and relationships across enterprise systems.
 
-> Where is this object used?
-> What will this change impact?
-> Where does this data originate?
-
-The platform combines **deterministic dependency analysis with AI-assisted explanations**, keeping factual lineage separate from probabilistic LLM reasoning.
+Built around a deterministic metadata layer combined with AI-assisted search, retrieval and grounded explanations.
 
 ```text
 C# · .NET 8 · ASP.NET Core · PostgreSQL · SQL Server
@@ -49,23 +124,25 @@ Power BI · OpenRouter · Docker · Playwright · Testcontainers
 
 * metadata ingestion and indexing
 * cross-system lineage
+* dependency discovery
 * impact analysis
-* dependency graphs
 * hybrid search
-* deterministic AI orchestration
+* deterministic relationship resolution
 * graph-enhanced retrieval
-* grounded LLM explanations
+* grounded AI explanations
+* metadata observability
 * integration and E2E testing
 
-`private · internal platform`
+`private · data intelligence`
 
 ---
 
-### AI & Knowledge Platform
+### 🔒 SmartPlatform - **AI & Knowledge Platform**
 
-Full-stack AI platform for working with enterprise knowledge and LLM-powered workflows.
 
-The system combines **agentic retrieval, custom AI agents, external tools and multiple model providers** behind a unified application layer.
+Full-stack AI platform for working with enterprise knowledge, LLM-powered workflows and agentic systems.
+
+Combines **retrieval, AI agents, tools, MCP integrations and multiple model providers** behind a unified application layer.
 
 ```text
 Python · TypeScript · RAG · AI Agents · MCP
@@ -80,41 +157,83 @@ Vector Search · Docker · Kubernetes · Redis · MinIO
 * enterprise knowledge search
 * hybrid retrieval
 * deep research workflows
-* tool and code execution
+* tool execution
+* code execution
 * multi-provider LLM integration
 * scalable background processing
-* containerized deployment
+* containerized deployments
 
 `private · AI platform`
 
 ---
 
-### Full-Stack CRM Platform
+### [Debtora](https://debtora.cz/)
 
-Modern CRM application built as a full-stack TypeScript product with a focus on fast UX and maintainable application architecture.
+**Counterparty Risk & Verification Platform**
 
-```text
-Next.js 16 · React 19 · TypeScript · Tailwind CSS 4
-Drizzle ORM · SQLite · Zod · Playwright
-```
+Production platform for verifying companies and individuals before entering into business, contractual or rental relationships.
+
+Debtora combines **public and official registry checks, automated risk assessment and continuous counterparty monitoring** into a single verification workflow.
+
+The platform helps users quickly identify potential risks before signing a contract and continue monitoring counterparties after the relationship begins.
 
 **Key areas**
 
-* modern full-stack architecture
-* CRM workflows
-* typed persistence layer
-* schema validation
-* interactive UI
-* drag & drop workflows
-* end-to-end testing
+* company verification
+* individual verification
+* counterparty risk assessment
+* insolvency checks
+* enforcement checks
+* VAT verification
+* business registry integrations
+* automated risk scoring
+* continuous counterparty monitoring
+* change detection and notifications
+* verification history
+* PDF reporting
+* credit-based payments
+* subscription monitoring
 
-`private · product development`
+**Integrated data sources**
+
+`ARES` · `Insolvency Register` · `VAT Registers` · `VIES` · `Trade Register` · `Enforcement Records` · `Public Company Records`
+
+🌐 **[debtora.cz](https://debtora.cz/)**
+
+`production · SaaS · risk intelligence`
 
 ---
 
-<p align="center">
-  <sub>
-    Selected projects are private due to their internal or commercial nature.
-    Architecture and technology details are intentionally presented at a high level.
-  </sub>
-</p>
+## `$ cat ./engineering`
+
+```text
+AI systems are more than models.
+
+Model   -> intelligence
+Loop    -> repetition and control
+Graph   -> topology and orchestration
+Harness -> tools, permissions, memory, evaluation and safety
+```
+
+I focus on building systems where **software architecture, data and AI work together as one production environment** rather than treating the model as the entire product.
+
+---
+
+## `$ ./contributions.sh`
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="AjvoGod contribution heatmap" />
+</picture>
+
+---
+
+<div align="center">
+
+### `build · automate · iterate`
+
+**Software · Data · AI**
+
+<sub>Ivo Schwarz · Software, Data & AI Consultant</sub>
+
+</div>
