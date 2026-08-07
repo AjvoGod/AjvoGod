@@ -1,28 +1,68 @@
 <div align="center">
 
-<table> <tr>
+<table>
+<tr>
 
-<td width="42%" valign="top"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="AjvoGod portrait" /> </picture> </td>
+<td width="40%" valign="top">
 
-<td width="58%" valign="top">
-
-<picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark" width="100%" alt="Ivo Schwarz" /> </picture>
-
-<br>
-
-<h3><code>ajvogod@github ~ $ ./contributions.sh</code></h3>
-
-<picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="AjvoGod contribution heatmap" /> </picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark"
+    width="100%"
+    alt="AjvoGod portrait"
+  />
+</picture>
 
 </td>
 
-</tr> </table>
+<td width="60%" valign="top">
 
-### Software, Data & AI Consultant
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark"
+    width="100%"
+    alt="Ivo Schwarz"
+  />
+</picture>
 
-Building **AI-enabled applications, enterprise data platforms and production-ready software.**
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/ivo-schwarz-8577832a2/) · [GitHub](https://github.com/AjvoGod)
+<p align="center">
+  <code>ajvogod@github ~ $ ./contributions.sh</code>
+</p>
+
+<img
+  src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark"
+  width="100%"
+  alt="AjvoGod contribution heatmap"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<h3>Software, Data &amp; AI Consultant</h3>
+
+<p>
+Building <b>AI-enabled applications, enterprise data platforms and production-ready software.</b>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/ivo-schwarz-8577832a2/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/AjvoGod">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://debtora.cz/">Debtora</a>
+</p>
 
 </div>
 
@@ -35,16 +75,17 @@ name: Ivo Schwarz
 role: Software, Data & AI Consultant
 
 focus:
-  - AI & agentic systems
+  - AI systems & agents
   - software engineering
-  - data platforms
+  - data platforms & engineering
+  - backend & full-stack development
   - enterprise applications
   - automation & integrations
 ```
 
 I design and build software at the intersection of **AI, data engineering and application development**.
 
-My work ranges from enterprise metadata and data platforms to AI agents, RAG systems, MCP integrations, automation and production web applications.
+My work ranges from enterprise metadata and data platforms to **AI agents, RAG systems, MCP integrations, automation and production web applications**.
 
 ---
 
@@ -67,6 +108,7 @@ SQL Server · PostgreSQL · Power BI · Microsoft Fabric
 
 **Platform & Engineering**  
 Docker · GitHub Actions · Kubernetes · Playwright · Automated Testing
+
 ---
 
 ## `$ ls ./selected-projects`
@@ -77,23 +119,21 @@ Enterprise platform for understanding, operating and governing complex data envi
 
 Built around a metadata-first architecture combining **data cataloging, lineage, observability, AI-assisted discovery and operational control**.
 
-```text
-.NET 8 · ASP.NET Core · Vue 3 · TypeScript · SQL Server
-Power BI · MCP · Agentic Graph RAG · OpenRouter · Docker
-```
+**Stack**  
+.NET 8 · ASP.NET Core · Vue 3 · TypeScript · SQL Server · Power BI · MCP · Agentic Graph RAG · OpenRouter · Docker
 
 **Key areas**
 
-* enterprise data catalog
-* automated metadata collection
-* SQL Server & Power BI lineage
-* logical relationship discovery
-* data quality and freshness monitoring
-* Text-to-SQL
-* Agentic Graph RAG
-* AI-powered metadata enrichment
-* RBAC, auditing and governance
-* operational incident management
+- enterprise data catalog
+- automated metadata collection
+- SQL Server & Power BI lineage
+- logical relationship discovery
+- data quality and freshness monitoring
+- Text-to-SQL
+- Agentic Graph RAG
+- AI-powered metadata enrichment
+- RBAC, auditing and governance
+- operational incident management
 
 `private · enterprise platform`
 
@@ -103,25 +143,23 @@ Power BI · MCP · Agentic Graph RAG · OpenRouter · Docker
 
 Metadata intelligence platform for discovering dependencies and relationships across enterprise systems.
 
-Built around a deterministic metadata layer combined with AI-assisted search, retrieval and grounded explanations.
+Built around a deterministic metadata layer combined with **AI-assisted search, retrieval and grounded explanations**.
 
-```text
-C# · .NET 8 · ASP.NET Core · PostgreSQL · SQL Server
-Power BI · OpenRouter · Docker · Playwright · Testcontainers
-```
+**Stack**  
+C# · .NET 8 · ASP.NET Core · PostgreSQL · SQL Server · Power BI · OpenRouter · Docker · Playwright · Testcontainers
 
 **Key areas**
 
-* metadata ingestion and indexing
-* cross-system lineage
-* dependency discovery
-* impact analysis
-* hybrid search
-* deterministic relationship resolution
-* graph-enhanced retrieval
-* grounded AI explanations
-* metadata observability
-* integration and E2E testing
+- metadata ingestion and indexing
+- cross-system lineage
+- dependency discovery
+- impact analysis
+- hybrid search
+- deterministic relationship resolution
+- graph-enhanced retrieval
+- grounded AI explanations
+- metadata observability
+- integration and E2E testing
 
 `private · data intelligence`
 
@@ -133,24 +171,22 @@ Full-stack AI platform for working with enterprise knowledge, LLM-powered workfl
 
 Combines **retrieval, AI agents, tools, MCP integrations and multiple model providers** behind a unified application layer.
 
-```text
-Python · TypeScript · RAG · AI Agents · MCP
-Vector Search · Docker · Kubernetes · Redis · MinIO
-```
+**Stack**  
+Python · TypeScript · RAG · AI Agents · MCP · Vector Search · Docker · Kubernetes · Redis · MinIO
 
 **Key areas**
 
-* Agentic RAG
-* custom AI agents
-* MCP integrations
-* enterprise knowledge search
-* hybrid retrieval
-* deep research workflows
-* tool execution
-* code execution
-* multi-provider LLM integration
-* scalable background processing
-* containerized deployments
+- Agentic RAG
+- custom AI agents
+- MCP integrations
+- enterprise knowledge search
+- hybrid retrieval
+- deep research workflows
+- tool execution
+- code execution
+- multi-provider LLM integration
+- scalable background processing
+- containerized deployments
 
 `private · AI platform`
 
@@ -162,28 +198,27 @@ Production platform for verifying companies and individuals before entering into
 
 Debtora combines **public and official registry checks, automated risk assessment and continuous counterparty monitoring** into a single verification workflow.
 
-The platform helps users quickly identify potential risks before signing a contract and continue monitoring counterparties after the relationship begins.
+The platform helps users identify potential risks before signing a contract and continue monitoring counterparties after the relationship begins.
 
 **Key areas**
 
-* company verification
-* individual verification
-* counterparty risk assessment
-* insolvency checks
-* enforcement checks
-* VAT verification
-* business registry integrations
-* automated risk scoring
-* continuous counterparty monitoring
-* change detection and notifications
-* verification history
-* PDF reporting
-* credit-based payments
-* subscription monitoring
+- company verification
+- individual verification
+- counterparty risk assessment
+- insolvency checks
+- enforcement checks
+- VAT verification
+- business registry integrations
+- automated risk scoring
+- continuous counterparty monitoring
+- change detection and notifications
+- verification history
+- PDF reporting
+- credit-based payments
+- subscription monitoring
 
-**Integrated data sources**
-
-`ARES` · `Insolvency Register` · `VAT Registers` · `VIES` · `Trade Register` · `Enforcement Records` · `Public Company Records`
+**Integrated data sources**  
+ARES · Insolvency Register · VAT Registers · VIES · Trade Register · Enforcement Records · Public Company Records
 
 🌐 **[debtora.cz](https://debtora.cz/)**
 
@@ -203,15 +238,6 @@ Harness -> tools, permissions, memory, evaluation and safety
 ```
 
 I focus on building systems where **software architecture, data and AI work together as one production environment** rather than treating the model as the entire product.
-
----
-
-## `$ ./contributions.sh`
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="AjvoGod contribution heatmap" />
-</picture>
 
 ---
 
