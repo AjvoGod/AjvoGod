@@ -1,36 +1,24 @@
 <div align="center">
 
+<h3><code>ajvogod@github ~ $ whoami</code></h3>
+
 <table>
 <tr>
 
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light"
-  />
-  <img
-    src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark"
-    width="100%"
-    alt="AjvoGod portrait"
-  />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="ajvogod portrait" />
 </picture>
 
 </td>
 
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light"
-  />
-  <img
-    src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark"
-    width="100%"
-    alt="Ivo Schwarz"
-  />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark" width="100%" alt="ajvogod wordmark" />
 </picture>
 
 <br>
@@ -39,11 +27,10 @@
   <code>ajvogod@github ~ $ ./contributions.sh</code>
 </p>
 
-<img
-  src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark"
-  width="100%"
-  alt="AjvoGod contribution heatmap"
-/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="ajvogod heatmap" />
+</picture>
 
 </td>
 
