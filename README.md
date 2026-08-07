@@ -4,44 +4,25 @@
 
 <table>
 <tr>
-
-<td width="42%" valign="top">
-
-<picture>
+<td width="42%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light" />
   <img src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="ajvogod portrait" />
-</picture>
-
-</td>
-
-<td width="58%" valign="top">
-
-<picture>
+</picture></td>
+<td width="58%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=light" />
   <img src="https://www.gitskins.com/api/section/wordmark?username=ajvogod&theme=aurora&style=terminal&label=Ivo+Schwarz&mode=dark" width="100%" alt="ajvogod wordmark" />
-</picture>
-
-<br>
-
-<p align="center">
-  <code>ajvogod@github ~ $ ./contributions.sh</code>
-</p>
-
+</picture><br>
+<code>ajvogod@github ~ $ ./contributions.sh</code><br>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=light" />
   <img src="https://www.gitskins.com/api/section/heatmap?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="ajvogod heatmap" />
-</picture>
-
-</td>
-
+</picture></td>
 </tr>
 </table>
 
 <h3>Software, Data &amp; AI Consultant</h3>
 
-<p>
-Building <b>AI-enabled applications, enterprise data platforms and production-ready software.</b>
-</p>
+<p>Building <b>AI-enabled applications, enterprise data platforms and production-ready software.</b></p>
 
 <p>
 <a href="https://www.linkedin.com/in/ivo-schwarz-8577832a2/">LinkedIn</a>
