@@ -1,0 +1,169 @@
+<svg width="900" height="690" viewBox="0 0 900 690"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+
+    .muted {
+      fill: #8b949e;
+    }
+
+    .text {
+      fill: #c9d1d9;
+    }
+
+    .green {
+      fill: #39d353;
+    }
+
+    .name {
+      fill: #f0f6fc;
+      font-size: 64px;
+      font-weight: 800;
+      letter-spacing: 3px;
+    }
+
+    .label {
+      fill: #8b949e;
+      font-size: 21px;
+    }
+
+    .value {
+      fill: #c9d1d9;
+      font-size: 23px;
+    }
+
+    .prompt {
+      font-size: 22px;
+      font-weight: 700;
+    }
+
+    .cursor {
+      fill: #39d353;
+      animation: blink 1s step-end infinite;
+    }
+
+    @keyframes blink {
+      50% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <!-- Window -->
+  <rect
+    x="1"
+    y="1"
+    width="898"
+    height="688"
+    rx="14"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <!-- Header -->
+  <path
+    d="M15 1 H885 A14 14 0 0 1 899 15 V54 H1 V15 A14 14 0 0 1 15 1Z"
+    fill="#161b22"
+  />
+
+  <!-- Traffic lights -->
+  <circle cx="27" cy="27" r="7" fill="#ff5f56"/>
+  <circle cx="51" cy="27" r="7" fill="#ffbd2e"/>
+  <circle cx="75" cy="27" r="7" fill="#27c93f"/>
+
+  <!-- Window title -->
+  <text
+    x="450"
+    y="34"
+    text-anchor="middle"
+    class="mono muted"
+    font-size="16"
+  >
+    ajvogod@github: ~ $ ./whoami.sh
+  </text>
+
+  <!-- Command -->
+  <text x="38" y="112" class="mono green prompt">
+    ajvogod@github:~$
+  </text>
+
+  <text x="290" y="112" class="mono text prompt">
+    ./whoami.sh
+  </text>
+
+  <!-- Name -->
+  <text x="40" y="220" class="mono name">
+    IVO
+  </text>
+
+  <text x="40" y="300" class="mono name">
+    SCHWARZ
+  </text>
+
+  <!-- Divider -->
+  <line
+    x1="40"
+    y1="345"
+    x2="860"
+    y2="345"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <!-- Role -->
+  <text x="40" y="405" class="mono label">
+    role
+  </text>
+
+  <text x="170" y="405" class="mono value">
+    Software, Data &amp; AI Consultant
+  </text>
+
+  <!-- Email -->
+  <text x="40" y="455" class="mono label">
+    email
+  </text>
+
+  <text x="170" y="455" class="mono value">
+    ivoschwarz@seznam.cz
+  </text>
+
+  <!-- Focus -->
+  <text x="40" y="505" class="mono label">
+    focus
+  </text>
+
+  <text x="170" y="505" class="mono value">
+    AI · Data · Software
+  </text>
+
+  <!-- Bottom prompt -->
+  <text x="38" y="620" class="mono green prompt">
+    ajvogod@github:~$
+  </text>
+
+  <rect
+    x="290"
+    y="598"
+    width="15"
+    height="28"
+    rx="2"
+    class="cursor"
+  />
+
+  <!-- Footer -->
+  <text
+    x="860"
+    y="660"
+    text-anchor="end"
+    class="mono muted"
+    font-size="13"
+  >
+    github.com/AjvoGod
+  </text>
+
+</svg>
