@@ -22,7 +22,7 @@
 
 Building **AI-enabled applications, enterprise data platforms and production-ready software.**
 
-[LinkedIn](https://www.linkedin.com/in/ivo-schwarz-8577832a2/) · [GitHub](https://github.com/AjvoGod) · [Debtora](https://debtora.cz/)
+[LinkedIn](https://www.linkedin.com/in/ivo-schwarz-8577832a2/) · [GitHub](https://github.com/AjvoGod)
 
 </div>
 
@@ -50,35 +50,26 @@ My work ranges from enterprise metadata and data platforms to AI agents, RAG sys
 
 ## `$ cat ./stack`
 
-### Languages
+**Languages**  
+Python · TypeScript · C# · SQL / T-SQL
 
-`Python` · `TypeScript` · `C#` · `SQL / T-SQL`
+**AI & Agents**  
+MCP · RAG · Agentic Systems · LLM Integration · Vector Search · Structured Outputs
 
-### AI & Agents
+**Backend**  
+.NET · ASP.NET Core · FastAPI · Node.js
 
-`MCP` · `RAG` · `Agentic Systems` · `LLM Integration` · `Vector Search` · `Structured Outputs`
+**Frontend**  
+React · Next.js · Vue.js · Tailwind CSS
 
-### Backend
+**Data**  
+SQL Server · PostgreSQL · Power BI · Microsoft Fabric
 
-`.NET` · `ASP.NET Core` · `FastAPI` · `Node.js`
-
-### Frontend
-
-`React` · `Next.js` · `Vue.js` · `Tailwind CSS`
-
-### Data
-
-`SQL Server` · `PostgreSQL` · `Power BI` · `Microsoft Fabric`
-
-### Platform & Engineering
-
-`Docker` · `GitHub Actions` · `Kubernetes` · `Playwright` · `Automated Testing`
-
+**Platform & Engineering**  
+Docker · GitHub Actions · Kubernetes · Playwright · Automated Testing
 ---
 
 ## `$ ls ./selected-projects`
-
-### 🔒 universal-platform
 
 **Enterprise Data & AI Control Center**
 
@@ -108,8 +99,7 @@ Power BI · MCP · Agentic Graph RAG · OpenRouter · Docker
 
 ---
 
-### 🔒 **Metadata & Lineage Intelligence Platform**
-
+**Metadata & Lineage Intelligence Platform**
 
 Metadata intelligence platform for discovering dependencies and relationships across enterprise systems.
 
@@ -137,8 +127,7 @@ Power BI · OpenRouter · Docker · Playwright · Testcontainers
 
 ---
 
-### 🔒 SmartPlatform - **AI & Knowledge Platform**
-
+**AI & Knowledge Platform**
 
 Full-stack AI platform for working with enterprise knowledge, LLM-powered workflows and agentic systems.
 
@@ -166,8 +155,6 @@ Vector Search · Docker · Kubernetes · Redis · MinIO
 `private · AI platform`
 
 ---
-
-### [Debtora](https://debtora.cz/)
 
 **Counterparty Risk & Verification Platform**
 
