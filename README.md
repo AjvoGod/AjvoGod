@@ -12,7 +12,7 @@
 <p><b>Software, Data &amp; AI Consultant</b></p>
 
 <p>
-<a href="mailto:ivoschwarz@seznam.cz">Email</a>
+<a href="mailto:ivo.schwarz@catalyma.com">Email</a>
 &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/ivo-schwarz-8577832a2/">LinkedIn</a>
 &nbsp;·&nbsp;
