@@ -4,10 +4,7 @@
 
 <table>
 <tr>
-<td width="42%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=ajvogod&theme=aurora&style=terminal&mode=dark" width="100%" alt="ajvogod portrait" />
-</picture></td>
+<td width="42%" valign="top"><img src="./avatar.gif" width="100%" alt="Ivo Schwarz wireframe avatar" /></td>
 <td width="58%" valign="top"><img src="./terminal.svg" width="100%" alt="Ivo Schwarz terminal" /></td>
 </tr>
 </table>
