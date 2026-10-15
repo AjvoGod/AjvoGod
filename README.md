@@ -37,6 +37,8 @@ Enterprise AI workspace for searching company knowledge, asking questions and ru
 
 `Python` · `FastAPI` · `OpenSearch` · `Celery` · `Redis` · `Next.js` · `LiteLLM` · `Docker`
 
+Kubernetes is planned for deployment.
+
 ### [Debtora](https://debtora.cz)
 
 Live B2B service for checking Czech companies and individuals against official registries before signing a contract. Includes insolvency and VAT checks, risk assessment, ongoing monitoring, PDF reports and payments.
@@ -75,7 +77,7 @@ Agents for customer care, invoice extraction and questions over a data warehouse
 | APIs | FastAPI, .NET / ASP.NET Core, NestJS, Node.js, Deno |
 | Data | SQL Server, PostgreSQL, Oracle, OpenSearch, Redis, Supabase, Power BI |
 | AI & automation | MCP, RAG, AI agents, TypeSafe Jev, OpenRouter, LiteLLM, Semantic Kernel, n8n, Make |
-| Engineering | Docker, GitHub Actions, Playwright, Entra ID, Microsoft Graph |
+| Engineering | Docker, Kubernetes (planned for SmartPlatform), GitHub Actions, Playwright, Entra ID, Microsoft Graph |
 | Coding tools | Claude Code, Codex, Cursor |
 
 Also working with Rust; learning Zig and Odin.
