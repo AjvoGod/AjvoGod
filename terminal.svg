@@ -120,7 +120,7 @@
   </text>
 
   <text x="170" y="405" class="mono value">
-    Software, Data &amp; AI Consultant
+    Software, Data &amp; AI Engineer
   </text>
 
   <!-- Email -->
@@ -139,6 +139,14 @@
 
   <text x="170" y="505" class="mono value">
     AI · Data · Software
+  </text>
+
+  <text x="40" y="555" class="mono label">
+    web
+  </text>
+
+  <text x="170" y="555" class="mono value">
+    ivoschwarz.com
   </text>
 
   <!-- Bottom prompt -->
