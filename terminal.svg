@@ -96,13 +96,9 @@
   </text>
 
   <!-- Name -->
-  <text x="40" y="220" class="mono name">
-    IVO
-  </text>
+  <text x="40" y="220" class="mono name" style="font-size:64px">IVO</text>
 
-  <text x="40" y="300" class="mono name">
-    SCHWARZ
-  </text>
+  <text x="40" y="300" class="mono name" style="font-size:64px">SCHWARZ</text>
 
   <!-- Divider -->
   <line
@@ -170,8 +166,6 @@
     text-anchor="end"
     class="mono muted"
     font-size="13"
-  >
-    github.com/AjvoGod
-  </text>
+  >github.com/AjvoGod</text>
 
 </svg>
